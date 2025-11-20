@@ -52,6 +52,4 @@ public class dowhile {
 
         System.out.println("La suma es " + (Aaa + Bbb));
     }
-
-
 }
